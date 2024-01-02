@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "97819893-2807-423c-9678-8e0a507f07fc",
+    "Name": "DvpSchema9c905d68Detail",
+    "ModifiedOnUtc": "\/Date(1700482429000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Автор картины\""
+  }
+}

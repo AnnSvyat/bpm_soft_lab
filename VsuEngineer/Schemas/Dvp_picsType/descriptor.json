@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "1b5924af-6a64-490e-8871-aef2e211ec11",
+    "Name": "Dvp_picsType",
+    "ModifiedOnUtc": "\/Date(1699274828000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тип картин"
+  }
+}

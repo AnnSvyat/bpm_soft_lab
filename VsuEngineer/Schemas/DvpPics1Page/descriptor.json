@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "7029533a-9355-4b8c-b865-67438a53a5b0",
+    "Name": "DvpPics1Page",
+    "ModifiedOnUtc": "\/Date(1704210316000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Картины\""
+  }
+}

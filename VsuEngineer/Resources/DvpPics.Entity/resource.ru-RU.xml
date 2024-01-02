@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Картины" />
+			<Item Name="Columns.Dvp_deadline.Caption" Value="Срок выполнения" />
+			<Item Name="Columns.Dvp_discount2.Caption" Value="Скидка" />
+			<Item Name="Columns.Dvp_discountYN.Caption" Value="Скидка есть?" />
+			<Item Name="Columns.Dvp_name.Caption" Value="Название" />
+			<Item Name="Columns.Dvp_price.Caption" Value="Стоимость" />
+			<Item Name="Columns.Dvp_type.Caption" Value="Тип" />
+			<Item Name="Columns.DvpName.Caption" Value="Название" />
+			<Item Name="Columns.DvpNotes.Caption" Value="Заметки" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

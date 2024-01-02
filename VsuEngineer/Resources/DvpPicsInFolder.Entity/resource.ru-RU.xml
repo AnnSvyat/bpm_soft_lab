@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Картины в группе" />
+			<Item Name="Columns.DvpPics.Caption" Value="Картины" />
+			<Item Name="Columns.Folder.Caption" Value="Группа Картины" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

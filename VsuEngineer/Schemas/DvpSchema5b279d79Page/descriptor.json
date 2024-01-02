@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "864c141f-2af4-4e94-a878-ca9c4315c1d7",
+    "Name": "DvpSchema5b279d79Page",
+    "ModifiedOnUtc": "\/Date(1700484415000)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Автор картины"
+  }
+}

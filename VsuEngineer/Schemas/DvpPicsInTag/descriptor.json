@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "9d83fd4f-6b49-4bf9-a380-6d2e5702fe73",
+    "Name": "DvpPicsInTag",
+    "ModifiedOnUtc": "\/Date(1699274348000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела Картины"
+  }
+}

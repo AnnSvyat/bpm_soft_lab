@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "4731d687-801e-455d-b187-e364e7e06175",
+    "Name": "DvpAuthorPic",
+    "ModifiedOnUtc": "\/Date(1700482997000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Автор картины"
+  }
+}

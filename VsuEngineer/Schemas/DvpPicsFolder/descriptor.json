@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "581b4d21-d01f-4723-804e-d1111997f71c",
+    "Name": "DvpPicsFolder",
+    "ModifiedOnUtc": "\/Date(1699274334000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Картины"
+  }
+}
